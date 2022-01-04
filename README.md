@@ -4,7 +4,7 @@
 
 <h4>Use this APP to find out!!!</h4>
 
-<p><strong>Please Note when calculating PST, the GST amount is added by default.</strong></p>
+<p><u>Please Note when calculating PST, the GST amount is added by default.</u></p>
 
 <hr/>
 <h3>React ReadMe Below</h3>
