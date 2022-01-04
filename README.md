@@ -2,9 +2,9 @@
 <hr/>
 <p>Want to buy something but don't know how much tax will you pay?</p>
 
-<p>Use this APP to find out</p>
+<h4>Use this APP to find out!!!</h4>
 
-<p><bold>Please Note when calculating PST, the GST amount is added by default.</bold></p>
+<p><strong>Please Note when calculating PST, the GST amount is added by default.</strong></p>
 
 <hr/>
 <h3>React ReadMe Below</h3>
