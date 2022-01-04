@@ -4,6 +4,9 @@
 
 <h4>Use this APP to find out!!!</h4>
 
+<p>Please Click on the link below to visit the app:</p>
+<a>https://infallible-kilby-691206.netlify.app</a>
+
 <h6>Please Note when calculating PST, the GST amount is added by default.</h6>
 
 <hr/>

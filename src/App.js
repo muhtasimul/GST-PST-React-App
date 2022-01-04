@@ -19,7 +19,7 @@ function App() {
           <Route path="/federal">
             <Federal/>
           </Route>
-          <Route path="/total">
+          <Route path="/">
             <Total/>
           </Route>
         </Switch>
