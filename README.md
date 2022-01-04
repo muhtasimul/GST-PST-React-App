@@ -1,3 +1,14 @@
+<h1>PST GST Tax Calculator</h1>
+<hr/>
+<p>Want to buy something but don't know how much tax will you pay?</p>
+
+<p>Use this APP to find out</p>
+
+<p><bold>Please Note when calculating PST, the GST amount is added by default.</bold></p>
+
+<hr/>
+<h3>React ReadMe Below</h3>
+<details>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
